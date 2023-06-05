@@ -1,7 +1,2 @@
 hola a todos
-hols
-hi
-hi 2
-hi 3
-hi 4 agrgado
-hi5
+hola a todos 2
